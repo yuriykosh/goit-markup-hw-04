@@ -142,6 +142,11 @@ body {
   color: var(--accent-color);
 }
 
+.current-page,
+.current-page:visited {
+  color: var(--accent-color);
+}
+
 /* Contacts links */
 
 .header-contacts {
