@@ -508,8 +508,13 @@ body {
   gap: 30px;
 }
 
-.portfolio-link {
+.portfolio-item {
   width: calc((100% - 60px) / 3);
+}
+
+.portfolio-link {
+  display: block;
+
   background-color: var(--bg-color);
 }
 
